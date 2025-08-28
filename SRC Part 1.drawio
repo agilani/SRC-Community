@@ -1,0 +1,313 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Page-1" id="cOhVQ_Ytjkg9qirT6Bq0">
+    <mxGraphModel dx="3964" dy="1551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qt97Vaiw9u3YH_gSduKi-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="SThVoK-MF_MAwMWMg6Ls-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376.5" y="221" as="targetPoint" />
+            <mxPoint x="-668.5" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="1">
+          <mxGeometry x="-941" y="372.34" width="41.5" height="112.16" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-2" target="SThVoK-MF_MAwMWMg6Ls-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-2" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Cloud Front&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-804.5" y="391.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" target="SThVoK-MF_MAwMWMg6Ls-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-892" y="438" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#0000FF);exitX=1;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-4" target="SThVoK-MF_MAwMWMg6Ls-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-189.5078125" y="229.36328125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#003300);exitX=1;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-4" target="SThVoK-MF_MAwMWMg6Ls-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF3333);exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-4" target="SThVoK-MF_MAwMWMg6Ls-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-177.5" y="529" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-279.5" y="849" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-4" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;API Gateway&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-317.5" y="391.5" width="76.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-6" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); background-color: light-dark(rgb(255, 255, 255), rgb(255, 255, 255));&quot;&gt;Database&lt;/font&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1234.5" y="-12" width="80.36" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91.5" y="284" as="sourcePoint" />
+            <mxPoint x="310.5" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-32" target="SThVoK-MF_MAwMWMg6Ls-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385.5" y="445.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-43" target="SThVoK-MF_MAwMWMg6Ls-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385.5" y="445.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);exitX=0.562;exitY=-0.031;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-20" target="SThVoK-MF_MAwMWMg6Ls-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1653.2265625" y="422.75390625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-20" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Data Access Service&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="1195.5" y="153" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-28" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Form Validation&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="558" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-33" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;NO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-34" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="628" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-28" target="SThVoK-MF_MAwMWMg6Ls-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348" y="406" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-32" target="SThVoK-MF_MAwMWMg6Ls-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="348" y="406" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="371.5" y="511" />
+              <mxPoint x="-44.5" y="511" />
+              <mxPoint x="-44.5" y="566" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-42" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#ED7100;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.blockchain;" vertex="1" parent="1">
+          <mxGeometry x="1573.5" y="31" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-43" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Sign in Lambda Function&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=light-dark(#232F3E,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="558" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-44" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Signup Lambda Function&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=light-dark(#232F3E,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-32" target="SThVoK-MF_MAwMWMg6Ls-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-32" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Form Valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="550" width="160" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-108" target="SThVoK-MF_MAwMWMg6Ls-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.804;exitY=-0.032;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#0000FF);startArrow=classic;startFill=1;exitPerimeter=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-91" target="SThVoK-MF_MAwMWMg6Ls-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1370.5" y="485" />
+              <mxPoint x="1510.5" y="485" />
+              <mxPoint x="1510.5" y="366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.647;exitY=1.042;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF3333);exitPerimeter=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-49" target="SThVoK-MF_MAwMWMg6Ls-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="637.5" y="793" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-49" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Auth Service&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="546.5" y="355" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#006600);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-53" target="SThVoK-MF_MAwMWMg6Ls-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-53" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Credential Validation&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="739.5" y="543" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.839;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#4D9900);startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-53" target="SThVoK-MF_MAwMWMg6Ls-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-55" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="974.5" y="495" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-56" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="974.5" y="612" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-57" target="SThVoK-MF_MAwMWMg6Ls-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-57" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="955.5" y="535" width="160" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#0000FF);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-58" target="SThVoK-MF_MAwMWMg6Ls-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-58" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Form Validation&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="69.5" y="247" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-60" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="441.5" y="253" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#0000FF);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-61" target="SThVoK-MF_MAwMWMg6Ls-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371.5" y="175" />
+              <mxPoint x="-106.5" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.018;entryY=0.379;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#0000FF);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-44" target="SThVoK-MF_MAwMWMg6Ls-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#0000FF);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-61" target="SThVoK-MF_MAwMWMg6Ls-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-59" target="SThVoK-MF_MAwMWMg6Ls-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="376.5" y="221" as="targetPoint" />
+            <mxPoint x="-668.5" y="321" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-61" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Form Valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#0000FF);" vertex="1" parent="1">
+          <mxGeometry x="291.5" y="239" width="160" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-59" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;NO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="202" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-56" target="SThVoK-MF_MAwMWMg6Ls-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1034.5" y="721" />
+              <mxPoint x="-106.5" y="721" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#4D9900);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-75" target="SThVoK-MF_MAwMWMg6Ls-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-75" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;JWT Creation&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-79" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Save / Read&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1067.5" y="162" width="89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-80" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Blockchain Proxy&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Service&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="1542.5" y="346" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-80" target="SThVoK-MF_MAwMWMg6Ls-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-84" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255));&quot;&gt;Generate Wallet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1168.5" y="270" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF3333);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-85" target="SThVoK-MF_MAwMWMg6Ls-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515.5" y="849" />
+              <mxPoint x="515.5" y="495" />
+              <mxPoint x="581.5" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-85" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Read Balance Lambda Function&lt;/font&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=light-dark(#232F3E,#000000);fillColor=light-dark(#FFFFFF,#FFFFFF);dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.lambda_function;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="819" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FF3333);startArrow=classic;startFill=1;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-91" target="SThVoK-MF_MAwMWMg6Ls-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-91" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Wallet Service&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="1257.5" y="783.5" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-92" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="932.5" y="789" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-93" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="875" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FF3333);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-94" target="SThVoK-MF_MAwMWMg6Ls-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="852.5" y="945" />
+              <mxPoint x="-106.5" y="945" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#FF0000);startArrow=classic;startFill=1;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-94" target="SThVoK-MF_MAwMWMg6Ls-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1119.5" y="823" />
+              <mxPoint x="1119.5" y="823" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-94" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Valid&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="772.5" y="785" width="160" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-95" target="SThVoK-MF_MAwMWMg6Ls-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-95" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;JWT Authentication&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="793" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-102" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(51, 51, 255)); font-size: 31px;&quot;&gt;Architecture Diagram for sign up / sign in and wallet balance query&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="32" y="-77" width="565" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-103" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;User Access the React application which is behind a cloud front service.&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;The react application is connected to lambda functions connected to an api gateway.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;For sign up flow&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;user fills the form.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Form gets validated.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;If valid, a wallet is created.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;User&#39;s login infomation along with the private key is stored in db after encryption.&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;For sign in flow&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;User fills the form&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Form gets validated&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;Credentials are checked&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;if valid, a jwt token is granted to be used with subsequent calls&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;if invalid, an exception is returned&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;b&gt;For read wallet balance flow&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;An api call is made secured by jwt token&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;If jwt is valid, the wallet service fetches the user and its wallet address&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;and make a call to blockchain service to fetch the balance and send response&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-877" y="535" width="492" height="564" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000,#000000);" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-105" target="SThVoK-MF_MAwMWMg6Ls-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-105" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=light-dark(#505050,#000000);labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.website_public;" vertex="1" parent="1">
+          <mxGeometry x="-640.5" y="388.5" width="134" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-108" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;User Service&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="917.5" y="258" width="140" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#0000FF);startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-108" target="SThVoK-MF_MAwMWMg6Ls-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1327.5" y="298" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.077;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#FF3333);startArrow=classic;startFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SThVoK-MF_MAwMWMg6Ls-108" target="SThVoK-MF_MAwMWMg6Ls-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1110.5" y="411" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="987.5" y="378" />
+              <mxPoint x="1196.5" y="378" />
+              <mxPoint x="1196.5" y="730" />
+              <mxPoint x="1268.5" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-113" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Get User Wallet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1074.5" y="351" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-114" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 255));&quot;&gt;Generate Wallet&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1377.5" y="452" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SThVoK-MF_MAwMWMg6Ls-115" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Read Balance&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1466.5" y="789" width="125" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
