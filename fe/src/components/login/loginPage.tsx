@@ -91,8 +91,8 @@ function LoginForm() {
   return (
     <div className="login-form-container">
       <div className="login-form">
-        <div className="title">{isSubmitted && user ? 'Signed In' : 'Sign In'}</div>
-        {isSubmitted && user ? <div className="list-container">
+        <div className="title">{isSubmitted && user && !errorMessages ? 'Signed In' : 'Sign In'}</div>
+        {isSubmitted && user && !errorMessages ? <div className="list-container">
           <span>User is successfully logged in</span>
           <span>Name: {user?.firstName} {user?.lastName}</span>
           <span>eMail: {user?.email}</span>
